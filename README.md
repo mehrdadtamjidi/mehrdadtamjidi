@@ -12,7 +12,7 @@
 - 🌱 I’m learning **Microservices**, **CQRS**, **Redis**, and **Docker**
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/mehrdadtamjidi)
 - 💬 Ask me about **.NET Core**, **EF Core**, **Clean Architecture**
-- 📫 How to reach me: `mehrdadtamjidi@gmail.com`
+- 📫 How to reach me: `tamjidi.mehrdad@gmail.com`
 - ⚡ Fun fact: I love clean code and debugging complex logic!
 
 ---
