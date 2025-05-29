@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://mehrdadtamjidi.com/" target="_blank"><img src="https://img.shields.io/badge/Website-MehrdadTamjidi.com-blue?style=for-the-badge&logo=google-chrome" /></a>
-  <a href="mailto:mehrdadtamjidi@gmail.com"><img src="https://img.shields.io/badge/Email-mehrdadtamjidi@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:tamjidi.mehrdad@gmail.com"><img src="https://img.shields.io/badge/Email-tamjidi.mehrdad@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
